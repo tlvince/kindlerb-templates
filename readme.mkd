@@ -1,0 +1,15 @@
+# kindlerb-templates
+
+Moustache templates from [kindlerb][], split into their own repository using
+`git filter-branch`.
+
+## Authors
+
+Daniel Choi
+Tom Vincent <http://tlvince.com/contact/>
+
+## License
+
+Released under the same license as `kindlerb`; the MIT license.
+
+  [kindlerb]: https://github.com/danchoi/kindlerb
