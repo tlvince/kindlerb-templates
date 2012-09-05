@@ -5,7 +5,7 @@ Moustache templates from [kindlerb][], split into their own repository using
 
 ## Authors
 
-Daniel Choi
+Daniel Choi  
 Tom Vincent <http://tlvince.com/contact/>
 
 ## License
